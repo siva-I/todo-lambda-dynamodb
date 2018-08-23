@@ -1,0 +1,19 @@
+{
+    "name": "todo-lambda-dynamodb",
+    "keywords": [
+        "aws",
+        "dynamodb",
+        "lambda",
+        "aws lambda",
+        "save todo",
+        "todo store",
+        "todo"
+    ],
+    "private": true,
+    "dependencies": {
+        "uuid": "3.3.2"
+    },
+    "devDependencies": {
+        "serverless": "1.30.1"
+    }
+}
