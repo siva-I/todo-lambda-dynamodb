@@ -1,4 +1,4 @@
-``# todo-lambda-dynamodb
+# todo-lambda-dynamodb
 
 ![todo-lambda-dynamodb](../master/Lambda-and-DynamoDB.png?raw=true)
 
@@ -12,6 +12,13 @@ Todo store using [Amazon Lambda](http://aws.amazon.com/lambda/) and [DynamoDb](h
 $ brew install awscli
 $ npm install
 ```
+Once finished, run below command to configure AWS and enter the `key` and `secret`.
+
+```
+$ aws configure
+```
+
+Once done we're good to go.
 
  **Deploy the Lambda to AWS**
 
