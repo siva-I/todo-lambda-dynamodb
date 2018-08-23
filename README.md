@@ -1,6 +1,6 @@
 # todo-lambda-dynamodb
 
-![todo-lambda-dynamodb](../master/node-lambda.png?raw=true)
+![todo-lambda-dynamodb](../master/Lambda-and-DynamoDB.png?raw=true)
 
 Todo store using [Amazon Lambda](http://aws.amazon.com/lambda/) and [DynamoDb](https://aws.amazon.com/dynamodb/) table implemented in node.js.
 
